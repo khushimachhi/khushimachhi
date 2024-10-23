@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @khushimachhi
+- 👀 I’m interested in website development, creating dynamic frontends and MERN stack.
+- 🌱 I’m currently learning MERN stack.
+- 💞️ I’m looking to collaborate on building projects providing seamless user experience.
+- 📫 How to reach me: Shoot me an email at [khushi](mailto:khushimachhi2708@gmail.com)
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: Coffee is a Must!!
