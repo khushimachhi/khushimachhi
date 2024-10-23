@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @khushimachhi
 - 👀 I’m interested in website development, creating dynamic frontends and MERN stack.
 - 🌱 I’m currently learning MERN stack.
-- 📫 How to reach me:[Email](mailto:khushimachhi2708@gmail.com)
+- 📫 How to reach me: [Email](mailto:khushimachhi2708@gmail.com)
 - 👩‍💻 Pronouns: She/Her
 - ⚡ Fun fact: Coffee is a Must!!
