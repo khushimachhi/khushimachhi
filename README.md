@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning MERN stack.
 - 📫 How to reach me: [Email](mailto:khushimachhi2708@gmail.com)
 - 👩‍💻 Pronouns: She/Her
-- ⚡ Fun fact: Coffee is a Must!!
+- ⚡Cofee-Code-Lipgloss
