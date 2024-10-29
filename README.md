@@ -1,7 +1,10 @@
 <img src="https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif">
+
 <h1 align="center">Hi 👋, I'm Khushi Machhi</h1>
 <h3 align="center">A passionate frontend developer</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/125878564/258871853-20e24ac8-354d-4ec0-8f25-ef158aec9420.gif">
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khushimachhi&label=Profile%20views&color=0e75b6&style=flat" alt="khushimachhi" /> </p>
 
 - 🌱 I’m currently learning **MERN Stack**
