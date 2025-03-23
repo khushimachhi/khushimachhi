@@ -7,9 +7,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=khushimachhi&label=Profile%20views&color=0e75b6&style=flat" alt="khushimachhi" /> </p>
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 Upgrading in **MERN Stack**
 
-- 💬 Ask me about **React**
 
 - 📫 How to reach me **khushimachhi2708@gmail.com**
 
